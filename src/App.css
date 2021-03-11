@@ -94,7 +94,7 @@
       "menu"
       "main"
       "footer";
-    grid-template-rows: auto 2rem 1fr 6rem;
+    grid-template-rows: auto 4rem 1fr 6rem;
     grid-template-columns: 1fr;
   }
 }
